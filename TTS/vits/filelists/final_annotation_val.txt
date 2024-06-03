@@ -1,0 +1,150 @@
+./custom_character_voice/a11/processed_0.wav|0|a  na↓ ʦ`⁼ə↓ kʰə↓↑s`ɹ`↓ t⁼a↓s`ɹ`↓ a.
+./custom_character_voice/a11/processed_1.wav|0|na↓ wo↓↑məNN ye↓↑ yau↓ p⁼aNg→maNg↑ p⁼u↓nəNg↑ ɹ`aNg↓ ʃyau↓↑k⁼uNg→ i↑k⁼ə↓ ɹ`əNN↑.
+./custom_character_voice/a11/processed_2.wav|0|wa  na↓t⁼au↓ lei↑k⁼waNg→ ye↓↑ tʰai↓ li↓hai↓ lə  ʦ`⁼ə↓ p⁼a↓↑ mu↓ ʧ⁼iNg↓li↓↑ t⁼ə t⁼au↓t⁼i↓↑ s`ɹ`↓ s`əNN↑mə ʧ⁼i↓i↓ a.
+./custom_character_voice/a11/processed_3.wav|0|wo↓↑ ɥe↓lai↑ɥe↓ ʧ⁼ɥe↑t⁼ə pʰwo↑pʰwo↑ ʧ⁼you↓s`ɹ`↓ i→wei↓ ʃyeNN→ɹ`əNN↑ lə.
+./custom_character_voice/a11/processed_4.wav|0|ʃɥ→yau↓ p⁼ei→fu↓ ʧ⁼ya→ʦ⁼u↑ t⁼ə s`ɹ`↓↑miNg↓ ɥ↓↑ ʦ⁼ə↑ɹ`əNN↓, ʧ⁼iNN↓li↓ waNN↑ʦ`ʰəNg↑ k⁼uNg→ʦ⁼wo↓, ʦʰai↑nəNg↑ ʦ⁼ai↓ naNN↑t⁼ə t⁼ə ʃyeNN↑ʃya↑ ʃyaNg↓↑s`ou↓ ʦ⁼ɹ↓ʧ⁼i↓↑ t⁼ə s`əNg→hwo↑.
+./custom_character_voice/a11/processed_5.wav|0|aNN↓li↓↑s`wo→, ʦ`⁼ə↓ʃye→ ɥaNN↑su↓ ʧ⁼ye→ʦ`ʰu↓ t⁼ə s`ɹ`↑hou↓, ʧ⁼you↓ iNg→k⁼ai→ hu↓ʃyaNg→ faNN↓↑iNg↓ ʧʰi↓↑lai↑ lə.
+./custom_character_voice/a11/processed_6.wav|0|k⁼aNN↓↑ʧ⁼ɥe↑ ʦ`⁼ə↓k⁼ə↓ ɥe↓ʧʰi↓ ye↓↑ həNN↓↑ʧ⁼you↓↑mei↑ you↓↑ɹ`əNN↑ p⁼au↓↑yaNg↓↑ lə nə.
+./custom_character_voice/a11/processed_7.wav|0|t⁼wei↓ lə, wo↓↑məNN pʰai→ʃya↓ ʦ`⁼ə↓k⁼ə↓ ʦ`ʰwaNN↑ t⁼ə yaNg↓ʦ⁼k⁼ei↓↑ t⁼a↓ɹ`əNN↑ waNN↑ kʰaNN↓.
+./custom_character_voice/a11/processed_8.wav|0|ʦ`⁼ə↓ t⁼i↓faNg→ ʦ⁼əNN↓↑mə ʦ`⁼aNg↓↑ʦ`ʰəNg↑ ʦ`⁼ə↓yaNg↓? s`aNg↓ʃya↓ʦ⁼wo↓↑you↓ s`ɹ`↓ s`əNN↑mə ʧʰiNg↑kʰwaNg↓? wo↓↑ p⁼u↓ t⁼uNg↓↑.
+./custom_character_voice/a11/processed_9.wav|0|ʦ`⁼ə↓ʃye→ ʦ`⁼ɹ`↑u↓ k⁼əNN→ wo↓↑məNN ʦ⁼ai↓ s`aNN→t⁼uNg↓ li↓↑ kʰaNN↓t⁼au↓ t⁼ə ʦ`⁼ɹ`↑u↓ həNN↓↑ ʃyaNg↓ nə.
+./custom_character_voice/a11/processed_10.wav|0|əNN↑, t⁼aNN↓s`ɹ`↓ ye↓↑wai↓ t⁼ə laNg↑ t⁼ou→ tʰai↓ʃyuNg→lə, swo↓↑i↓↑ wo↓↑məNN ʧʰɥ↓ hə↑ lei↑ʦ⁼ə↑ t⁼ə ma↓↑ ʦ⁼wo↓ mau↑p⁼i↓↑ p⁼a.
+./custom_character_voice/a11/processed_11.wav|0|əNN↑, ʦ`⁼ə↓li↓↑ s`ɹ`↓li↑ɥe↓, yeNN↑ʦ`⁼ɹ`→s`aNN→ tʰuNg↓↑ʦ`⁼ɹ`↓ t⁼ə k⁼wo↑t⁼u↓, swo↓↑i↓↑ s`əNN↑ʃyaNg↓ t⁼ə ʦ⁼au↓ʃiNg↑ p⁼u↓tʰuNg↑.
+./custom_character_voice/a11/processed_12.wav|0|s`ɹ`↓ i→k⁼ə↓ u↑ʦ`ʰɹ`↓↑ t⁼ə pʰyeNN↓ʦ⁼ɹ la, ʃyeNN→ ʦ`⁼waNN→ʃiNN→ ʦ`⁼aNN↓t⁼ou↓ p⁼a, i→hwei↓əɹ`↑ ʦ⁼ai↓lyau↑ ʦ`⁼ə↓k⁼ə↓ hwa↓tʰi↑.
+./custom_character_voice/a11/processed_13.wav|0|tʰai↓ʧ⁼iNN↓ lə tʰai↓ʧ⁼iNN↓ lə  ʦ`⁼ə↓yaNg↓ hwei↓ p⁼ei↓ fa→ʃyeNN↓ t⁼ə p⁼a.
+./custom_character_voice/a11/processed_14.wav|0|ʦ`⁼ə↓li↓↑ s`ɹ`↓p⁼u↑s`ɹ`↓ k⁼wo↓p⁼u↓ʧʰɥ↓ a.
+./custom_character_voice/a11/processed_15.wav|0|wo↓↑məNN ʧʰɥ↓ yau→ʧʰiNg↓↑ t⁼əhwa↓, liNg↑hwa↑ iNg→k⁼ai→ p⁼u↑hwei↓ ʧ⁼ɥ↓ʧ⁼ɥe↑ t⁼ə p⁼a, hei→hei→.
+./custom_character_voice/a11/processed_16.wav|0|t⁼aNN↓s`ɹ`↓ wo↓↑ tʰiNg→s`wo→, s`ɹ`↓ʧ⁼ye↓ s`aNg↓ you↓↑ʦ`⁼uNg↓↑ t⁼uNg→ʃi→ ʧ⁼yau↓t⁼a↓ə↑ ʦ`⁼a↓pʰyeNN↓ tʰa→məNN ʧʰyeNN↑ʧʰi→ hwei↓ k⁼ei↓↑ həNN↓↑t⁼wo→ hau↓↑ʦ`ʰu↓ lai↑ pʰei↑yaNg↓↑ ʃiNN↓ɹ`əNN↓ ʧ⁼yaNg↓t⁼i→ s`ou↓hai↓ʦ`⁼ə↓↑ t⁼ə ʧ⁼iNg↓↑tʰi↓.
+./custom_character_voice/a11/processed_17.wav|0|kʰwai↓t⁼yeNN↓↑ pʰwo↓hwai↓ ʦ`⁼ə↓ʃye→ ʦ`⁼waNg→ʦ`⁼ɹ`↓, ʧ⁼ye↑s`u↓ ʧʰyou↑ʧʰyou↑ ɹ`əNN↑məNN t⁼ə tʰuNg↓kʰu↓↑ p⁼a!
+./custom_character_voice/a11/processed_18.wav|0|naNN↑t⁼au↓ you↓ s`ɹ`↓ na↓ʃye→ ʦ`⁼ɹ`→ʦ`⁼u→waNg↓↑? wo↓↑məNN ʧʰɥ↓ ʦ`⁼ou→wei↑ kʰaNN↓kʰaNN↓ p⁼a.
+./custom_character_voice/a11/processed_19.wav|0|wei↓  ni↓↑ waNg↓↑ na↓↑ ʦ⁼ou↓↑ ya  lai↑ pʰai↓ məNg↑ ʦ`⁼ə↓p⁼yeNN→.
+./custom_character_voice/a11/processed_20.wav|0|ʧ⁼i↓t⁼ə hai↑you↓↑ ʦ`⁼uNg↓yau↓ t⁼ə ɹ`əNN↓u↓ yau↓ waNN↑ʦ`ʰəNg↑ o↑.
+./custom_character_voice/a11/processed_21.wav|0|na↓… na↓lwəNN↓ t⁼i↓wei↓ lai↑ʧ⁼yaNg↓↑ t⁼ə hwa↓…
+./custom_character_voice/a11/processed_22.wav|0|ʦ`ʰa↓p⁼u↓t⁼wo→ lə, t⁼au↓ p⁼i↓↑sai↓ʦ`ʰaNg↓↑ t⁼i↓ ʧʰɥ↓ kʰaNN↓kʰaNN↓ p⁼a.
+./custom_character_voice/a11/processed_23.wav|0|ʦ`⁼ə↓ʃye→ ʧ⁼ya→hwo hau↓↑ʃyaNg↓ t⁼ou→ p⁼ei↓ ʧʰyaNg↑hwa↓ k⁼wo↓ lə tʰa→məNN t⁼ə li↓lyaNg↓ lai↑ɥaNN↑ s`ɹ`↓p⁼u↑s`ɹ`↓ hə↑ na↓p⁼yeNN→ na↓ fu↓ kʰwei→ʧ⁼ya↓↑ you↓↑t⁼yeNN↓↑ k⁼waNN→ʃi↓.
+./custom_character_voice/a11/processed_24.wav|0|əNN↑, iNN→wei↓ s`ɹ`↓ʧ⁼ye↓ ma↓↑ s`aNg↓ yau↓ hwei↓↑mye↓ lə.
+./custom_character_voice/a11/processed_25.wav|0|t⁼a↓ ɹ`ou↓waNN↑ p⁼u↓hwei↓ ʦ⁼ai↓ pʰyeNN↓ ɹ`əNN↑ p⁼a wo↓↑məNN t⁼ə↑ hwei↑ʧʰɥ↓ hau↓↑hau↓↑ wəNN↓wəNN↓ tʰa→.
+./custom_character_voice/a11/processed_26.wav|0|ʦ`⁼ə↓yaNg↓t⁼əhwa↓, u↑lwəNN↓s`ɹ`↓ ʦ`ʰɹ`→ t⁼uNg→ʃi→ la, s`wei↓ʧ⁼yau↓ la, t⁼ou→ hwei↓ faNg→p⁼yeNN↓ həNN↓↑t⁼wo→.
+./custom_character_voice/a11/processed_27.wav|0|t⁼a↓ ɹ`ou↓waNN↑ k⁼aNN↓↑iNg↓ t⁼au↓ t⁼ə t⁼i↓faNg→ ʧ⁼you↓ ʦ⁼ai↓ s`aNg↓myeNN↓.
+./custom_character_voice/a11/processed_28.wav|0|yau↓s`ɹ`↓ wo↓↑məNN ye↓↑ you↓↑ i→k⁼ə↓ ʦ`⁼ə↓yaNg↓ t⁼ə hu↑ ʧ⁼you↓ hau↓↑ lə.
+./custom_character_voice/a11/processed_29.wav|0|wa, ʦ`⁼ə↓ʃye→ s`ɹ`↓ ʧʰiNg→ʃiNN→ a, wo↓↑ hai↑i↓↑ wei↓ hwei↓ s`ɹ`↓ s`aNN→hu↑ ʦ`⁼əNN→ʦ`⁼u→.
+./custom_character_voice/a11/processed_30.wav|0|t⁼au↓ ʦ`ʰu↓ t⁼ou→ ʦ`⁼au↓↑k⁼wo↓ lə, kʰaNN↓lai↑ yau↓s`ɹ`↓ p⁼u↓ ʦ⁼ai↓ ʦ`⁼ə↓li↓↑, ʧʰɥ↓ p⁼ye↑ t⁼ə faNg↑ʧ⁼yeNN→ kʰaNN↓kʰaNN↓ ma?
+./custom_character_voice/a11/processed_31.wav|0|ʧ⁼iNN↓ yau→mwo↑ u↓↑? ʦ`⁼ə↓ ʧ⁼you↓s`ɹ`↓ hu↓fa↓↑ ye↓ʦ`ʰa→ p⁼ei↓ fu↓ɥ↓↑ t⁼ə li↓lyaNg↓ p⁼a?
+./custom_character_voice/a11/processed_32.wav|0|wa, na↓t⁼a↓ ɹ`ou↓waNN↑…… p⁼u↓ t⁼wei↓ p⁼u↓ t⁼wei↓, ʦ`ʰwaNN↑ ʃyeNN→s`əNg→, ni↓↑ ʦ`⁼əNN→ʦ`⁼əNg↓ t⁼ə miNg↑ʦ⁼ɹ↓ ʧ⁼yau↓ s`əNN↑mə ya?
+./custom_character_voice/a11/processed_33.wav|0|ə↓…… hau↓↑ʃyaNg↓ p⁼u↓ t⁼wei↓.
+./custom_character_voice/a11/processed_34.wav|0|t⁼aNN↓s`ɹ`↓ ni↓↑ lyeNN↑ʃɥ↓ k⁼aNN↓↑iNg→ lyaNg↓↑ʦʰɹ↓ t⁼ou→ k⁼aNN↓↑iNg→ t⁼au↓ t⁼waNN↓ ʦ`ʰwaNN↑.
+./custom_character_voice/a11/processed_35.wav|0|na↓ʃye→ t⁼i↓faNg→ i↓↑hou↓ ʦ⁼ai↓ ʧʰɥ↓ p⁼a.
+./custom_character_voice/a11/processed_36.wav|0|əNN↑…… ɥe↓s`ɹ`↑ waNN↑, ni↓↑ p⁼u↑hwei↓ s`ɹ`↓ ʦ⁼ai↓ ʦ`⁼waNg→s`wei↓ p⁼a? ni↓↑ yau↓s`ɹ`↓ ʦ⁼ai↓ ʦ`⁼waNg→s`wei↓, wo↓↑ ʧ⁼you↓yau↓ s`əNg→ʧʰi↓ lə!
+./custom_character_voice/a11/processed_37.wav|0|ʦ`⁼ə↓li↓↑ t⁼au↓ s`ɹ`↓ faNg↓ ʦ`⁼ə i→p⁼a↓↑ mu↓ʧ⁼yeNN↓ ʦ`⁼ə↓ p⁼a↓↑ ʧ⁼yeNN↓ ʧ⁼you↓ k⁼əNN→ ʃyau↓↑hai↑ʦ⁼ɹ t⁼ə waNN↑ʧ⁼ɥ↓ i→yaNg↓ nə.
+./custom_character_voice/a11/processed_38.wav|0|wo↓↑hwei↓ həNN↓↑lə↓ i↓t⁼aNg→ ni↓↑ t⁼ə ʦ`⁼waNN→s`u↓↑ pʰiNg↑ʧ⁼yeNN↓s`ɹ`→.
+./custom_character_voice/a11/processed_39.wav|0|hau↓↑ kʰai→ʃiNN→  ʦ`⁼ɹ`↑t⁼ə hau↓↑hau↓↑ ʧʰiNg↓ʦ`⁼u↓ i→faNN→.
+./custom_character_voice/a11/processed_40.wav|0|wei↓ s`əNN↑mə mei↓↑ i→k⁼ə↓ s`aNg→ɹ`əNN↑ s`wo→hwa↓ t⁼ou→ ʦ`⁼ə↓mə kʰə↓i↓ nə?
+./custom_character_voice/a11/processed_41.wav|0|swo↓↑you↓↑ you↓↑ɹ`əNN↑ yeNN→ t⁼ə t⁼i↓faNg→ ye↓↑ t⁼ou→ ʧʰɥ↓ t⁼ə↑ ʦ`ʰa↓p⁼u↓t⁼wo→ lə.
+./custom_character_voice/a11/processed_42.wav|0|ni↓↑ s`əNN→s`aNg↓ fa→ t⁼ə k⁼waNg→ hau↓↑ʃyaNg↓ ʦ⁼ai↓ ʧ⁼ɥe↑ ɥəNN↑ʧ⁼yeNN→ t⁼ə na↓ʦʰɹ↓.
+./custom_character_voice/a11/processed_43.wav|0|ʦ`⁼ə↓k⁼ə↓ hai↓↑lwo↑ u→li↓↑ t⁼au↓ s`ɹ`↓ you↓↑ həNN↓↑t⁼wo→ mu↓p⁼aNN↓↑, p⁼u↓k⁼wo↓ hau↓↑ʃyaNg↓ t⁼ou→ p⁼u↓tʰai↓ʃyaNg↓ nə.
+./custom_character_voice/a11/processed_44.wav|0|iNN→wei↓ wo↓↑ ʦ`⁼əNg↓ʦ⁼ai↓ sɹ→kʰau↓↑ həNN↓↑ yeNN↑su↓ t⁼ə s`ɹ`↓ʧʰiNg↑.
+./custom_character_voice/a11/processed_45.wav|0|ʧʰyeNN↑myeNN↓ t⁼ə ʧʰɥ→ɥ↓ i↓↑hou↓ ʦ⁼ai↓ lai↑ tʰaNN↓swo↓↑ p⁼a.
+./custom_character_voice/a11/processed_46.wav|0|so↓oʃaNmooʃaN.
+./custom_character_voice/a11/processed_47.wav|0|p⁼u↓ ʦ`⁼ɹ`→t⁼au↓  t⁼aNN↓s`ɹ`↓ ʦ`⁼əNN→t⁼ə həNN↓↑ kʰuNg↓↑p⁼u↓.
+./custom_character_voice/a11/processed_48.wav|0|kʰə↓↑ na↓wei↓ ʦ⁼uNg↓↑s`ɹ`↓ həNN↓↑ ʧʰiNg→suNg→ you→ʃyeNN↑ t⁼ə kʰai↓↑ya↓ ʃyeNN→s`əNg→, ʧʰɥe↓s`ɹ`↓ tʰa→ t⁼ə s`aNg↓sɹ→.
+./custom_character_voice/a11/processed_49.wav|0|wo↓↑ t⁼ə lɥ↓↑p⁼aNN↓ ye↓↑ həNN↓↑ s`aNN↓ʦ`ʰaNg↑ pʰəNg→ɹ`əNN↓ o↑ t⁼wei↓ p⁼a t⁼wei↓ p⁼a.
+./custom_character_voice/a11/processed_50.wav|0|t⁼aNN↓ wo↓↑ ʦ`⁼əNN→t⁼ə you↓↑t⁼yeNN↓↑ hau↓ʧʰi↑ lə.
+./custom_character_voice/a11/processed_51.wav|0|ʦ`⁼əNN→t⁼ə ma  ʦ`⁼ə↓ʦʰɹ↓ ni↓↑ p⁼u↑hwei↓ pʰyeNN↓ wo↓↑məNN lə p⁼a.
+./custom_character_voice/a11/processed_52.wav|0|k⁼waNg→ʃyeNN↓ ʦ`⁼ɹ`↓↑ʃyaNg↓ liNg↓ i↑k⁼ə↓ pʰiNg↑tʰai↑, wo↓↑məNN ʧʰɥ↓ kʰaNN↓kʰaNN↓ p⁼a.
+./custom_character_voice/a11/processed_53.wav|0|o↑, həNN↓↑ you↓↑ t⁼au↓li↓↑ nə.
+./custom_character_voice/a11/processed_54.wav|0|k⁼waNN→ʦ`ʰa↑? naNN↑t⁼au↓ wo↓↑ t⁼ə hwo↓↑p⁼aNN↓ ʦ⁼wo↓ lə s`əNN↑mə ʧʰi↑k⁼wai↓ t⁼ə s`ɹ`↓ ma?
+./custom_character_voice/a11/processed_55.wav|0|t⁼au↓t⁼i↓↑ s`ɹ`↓ na↓↑wei↓ lɥ↓↑ʃiNg↑ʦ`⁼ə↓↑ ʦ`⁼ə↓mə ʃiNg↓ɥəNN↓ nə?
+./custom_character_voice/a11/processed_56.wav|0|ʦ⁼wei↓laNN↓↑ saNN↓ t⁼ə wəNN→t⁼i↑ hai↑s`ɹ`↓ ʦ`⁼əNg↓↑k⁼ə↓ məNg↑ t⁼ə↑ʦ`ʰəNg↑ t⁼ə s`əNN↑miNg↑ nə.
+./custom_character_voice/a11/processed_57.wav|0|wo↓↑məNN ʧ⁼you↓ p⁼aNg→t⁼a↓ ɹ`ou↓waNN↑ p⁼a t⁼a↓ ɹ`ou↓waNN↑ ʦ`⁼au↓↑t⁼au↓ ɥaNN↑p⁼əNN↓↑ t⁼ə s`əNN→tʰi↓↑ wo↓↑məNN t⁼ə↑t⁼au↓ lə p⁼au↓↑ʦ⁼aNg↓ na↓ p⁼u↑s`ɹ`↓ ʧ⁼ye→t⁼a↓hwaNN→ʃi↓↑ ma.
+./custom_character_voice/a11/processed_58.wav|0|hei→hei→, tʰa→ p⁼i↓↑ ni↓↑ ʃyaNg↓↑ʃyaNg↓ t⁼ə hai↑yau↓ li↓hai↓ o↑!
+./custom_character_voice/a11/processed_59.wav|0|p⁼u↓k⁼wo↓ ni↓↑ mei↑ you↓↑s`əNN↑ ʦ`⁼ɹ`→yeNN↓↑, swo↓↑i↓↑ p⁼u↓yuNg↓ t⁼aNN→ʃiNN→hwei↓ p⁼ei↓ s`ou→ʦ⁼ou↓↑.
+./custom_character_voice/a11/processed_60.wav|0|ei↑, p⁼u↓ t⁼wei↓, pʰai↓ məNg↑ p⁼u↑s`ɹ`↓ ʦ`ʰuNg↓↑u↓ a.
+./custom_character_voice/a11/processed_61.wav|0|ʦ`⁼ə↓ ʧ⁼you↓s`ɹ`↓ nəNg↑li↓ ɥe↓t⁼a↓  ʦ⁼ə↑ɹ`əNN↓ ɥe↓t⁼a↓ p⁼a.
+./custom_character_voice/a11/processed_62.wav|0|ʦʰai↑ mei↑ you↓↑ nə, wo↓↑ ʦ`⁼ɹ`↓↑s`ɹ`↓ ʃyaNg↓↑ kʰaNN↓kʰaNN↓ s`wei↓məNg↓ ʧʰi↑ʦ`⁼əNN→ li↓↑t⁼ə na↓ʧ⁼ya→ k⁼u↓↑t⁼uNg↓↑t⁼yeNN↓ s`ɹ`↓p⁼u↑s`ɹ`↓ ʦ`⁼əNN→t⁼ə ʦʰwəNN↑ʦ⁼ai↓.
+./custom_character_voice/a11/processed_63.wav|0|ʦ`⁼ə↓k⁼ə↓ s`əNg→iNN→  s`ɹ`↓ ʃyau→əɹ`↑  tʰa→ s`ɹ`↓ ɥ↓t⁼au↓ s`əNN↑mə s`ɹ`↓ lə ma.
+./custom_character_voice/a11/processed_64.wav|0|əNN↑, fəNg→ʧʰi↓↑ t⁼i↓fəNg→ p⁼u↓ʧʰi↓↑.
+./custom_character_voice/a11/processed_65.wav|0|myeNN↓ʧʰyeNN↑ ʦ`⁼ə↓k⁼ə↓ tʰu↑aNN↓, i↓↑ʧʰyeNN↑ hau↓↑ʃyaNg↓ ʧ⁼yeNN↓k⁼wo↓.
+./custom_character_voice/a11/processed_66.wav|0|suNg→ɹ`waNN↓↑ t⁼ə tʰu↓↑sɹ→myeNN↓p⁼au→ ʧʰye↓ʦ`ʰəNg↑ hou↓pʰyeNN↓.
+./custom_character_voice/a11/processed_67.wav|0|wo↓↑məNN ʦ`⁼au↓↑t⁼au↓ p⁼au↓↑ʦʰaNg↑ lə  ni↓↑ kʰaNN↓  s`ɹ`↓ i→sou→ hai↓↑t⁼au↓ ʦ`ʰwaNN↑ t⁼ə mwo↑ʃiNg↑ nə  ʦ`⁼ə↓ʦʰɹ↓ ni↓↑ t⁼ə ʦ`⁼ɹ`↑ ʧ⁼ɥe↑ʦ`⁼uNg→ ɥ↑ ʦ`⁼wəNN↓↑ lə i→ʦʰɹ↓.
+./custom_character_voice/a11/processed_68.wav|0|ʦ`⁼ə↓wei↓ pʰwo↑pʰwo↑, hwei↓ p⁼u↑hwei↓ ye↓↑ s`ɹ`↓ ʃyeNN→ɹ`əNN↑?
+./custom_character_voice/a11/processed_69.wav|0|wa, k⁼aNg→k⁼aNg→ ʦ`⁼əNN→t⁼ə hau↓↑ wei→ʃyeNN↓↑, ʦ`⁼ə↓ʃya↓ ʦ`⁼uNg→ɥ↑ kʰə↓↑i↓↑ ʦ`ʰwaNN↓↑ kʰou↓↑ʧʰi↓ lə p⁼a, nwo↓ai→əɹ`↓↑?
+./custom_character_voice/a11/processed_70.wav|0|s`əNg↓li↓ ʧ⁼you↓ ʦ⁼ai↓ yeNN↓↑ʧʰyeNN↑ hei→hei→.
+./custom_character_voice/a11/processed_71.wav|0|ei↑, mei↑you↓↑ ɹ`əNN↑, ʦ`⁼ɹ`↓↑you↓↑ i↑k⁼ə↓ ʃyaNg→ʦ⁼, kʰwai↓ t⁼a↓↑kʰai→ kʰaNN↓kʰaNN↓.
+./custom_character_voice/a11/processed_72.wav|0|wo↓↑məNN t⁼ai↓ ʦ`⁼u↓ ʦ`⁼ə↓fəNN↓ ʦ`⁼əNg↓ʧ⁼ɥ↓ hwei↑ʧʰɥ↓ ʦ`⁼au↓↑ hwei↓ʃiNg→ p⁼a.
+./custom_character_voice/a11/processed_73.wav|0|ʦ`⁼ə↓k⁼ə↓ you↑ʃi↓ hai↑you↓↑ hou↓ʃɥ↓ ma.
+./custom_character_voice/a11/processed_74.wav|0|wa, ʦ⁼əNN↓↑mə ʧ⁼you↓ tʰu→ɹ`aNN↑ t⁼a↓↑ʧʰi↓↑ lei↑lai↑ lə, ʃyau↓↑ʃiNN→ a!
+./custom_character_voice/a11/processed_75.wav|0|əɹ`↑ʧʰye↓↑, na↓ kʰə↓↑s`ɹ`↓ you↓↑ p⁼au↓↑ʦ⁼aNg↓ t⁼ə! wo↓↑məNN ʧ⁼you↓ i↓ʧʰi↓↑ ʧʰɥ↓ p⁼a!
+./custom_character_voice/a11/processed_76.wav|0|kʰə↓↑s`ɹ`↓ ʦ`⁼au↓↑p⁼yeNN↓ swo↓↑you↓↑ t⁼ə tʰaNN→wei↓ t⁼ou→ mei↑you↓↑ s`ɹ`↓hə↑ wo↓↑ t⁼ai↓ t⁼ə ʦ`ʰɹ`↓↑ʦʰwəNN↓.
+./custom_character_voice/a11/processed_77.wav|0|həNg→həNg→, na↓mə s`ɹ`↓ s`ɹ`↑hou↓ na↑ʦ`ʰu→ ʦ`⁼əNN→ʦ`⁼əNg↓ t⁼ə p⁼əNN↓↑s`ɹ`↓ lə!
+./custom_character_voice/a11/processed_78.wav|0|wa, ni↓↑ ʦ⁼əNN↓↑mə ʦ`⁼ɹ`→t⁼au↓ wo↓↑məNN t⁼ə miNg↑ʦ⁼ɹ↓ a?
+./custom_character_voice/a11/processed_79.wav|0|pʰau↓↑ ʦʰwo↓ faNg→ʃyaNg↓ lə! k⁼aNN↓↑kʰwai↓ ʧʰɥ↓ waNN↑ʦ`ʰəNg↑ yau↓ʧ⁼iNN↓↑ t⁼ə ɹ`əNN↓u↓ p⁼a!
+./custom_character_voice/a11/processed_80.wav|0|k⁼əNN→ʧ⁼ɥ↓ t⁼a↓ɹ`əNN↑ waNN↑ t⁼ə k⁼aNN↓↑iNg↓, ʧ⁼you↓ ʦ⁼ai↓ ʦ`⁼ə↓ fu↓ʧ⁼iNN↓ ə↓, naNN↑t⁼au↓ s`ɹ`↓ ʦ`⁼ə↓kʰwai↓ ʧ⁼yau→s`ɹ`↑?
+./custom_character_voice/a11/processed_81.wav|0|yau↓s`ɹ`↓ k⁼əNN→ t⁼you→lə kʰə↓↑ ʧ⁼you↓ p⁼u↓hau↓↑ lə.
+./custom_character_voice/a11/processed_82.wav|0|p⁼u↓ kʰə↓↑i↓↑ p⁼u↓ kʰə↓↑i↓↑, wei↓lə p⁼i↓myeNN↓↑ ʦ`⁼ə↓ʦ`⁼uNg↓↑ s`ɹ`↓ʧʰiNg↑ fa→s`əNg→, yau↓ k⁼aNN↓↑kʰwai↓ ʃyaNg↓↑ʃyaNg↓↑ p⁼aNN↓fa↓↑.
+./custom_character_voice/a11/processed_83.wav|0|ʧʰɥe↓ you↓↑ mwo↓s`əNg→ t⁼ə s`əNN↑liNg↑laNN↑ ʦ⁼ai↓ ni↓↑ məNN t⁼ə myeNN↓ʧʰyeNN↑.
+./custom_character_voice/a11/processed_84.wav|0|ɥaNN↑lai↑ tʰa→məNN ʦ`⁼au↓↑t⁼au↓ lə hwei↑ʧʰɥ↓ t⁼ə faNg→fa↓↑.
+./custom_character_voice/a11/processed_85.wav|0|ʦ`⁼əNN→p⁼u↓ɹ`uNg↑i↓.
+./custom_character_voice/a11/processed_86.wav|0|ai→, kʰə↓↑ swaNN↓s`ɹ`↓ ʧʰɥaNN↑p⁼u↓ ʦ`ʰu↓↑li↓↑ waNN↑ lə.
+./custom_character_voice/a11/processed_87.wav|0|a  na↓p⁼yeNN→ hau↓↑ʃyaNg↓ you↓↑ ʦ`⁼əNN→t⁼ə s`ou↓↑wei↓  yau↓ p⁼u↓ wo↓↑məNN ʧʰɥ↓ wəNN↓wəNN↓ tʰa→ p⁼a.
+./custom_character_voice/a11/processed_88.wav|0|ʦ`⁼ə↓ʦ`⁼uNg↓↑ ʦ`⁼waNN↓lai↑ʦ`⁼waNN↓ʧʰɥ↓ t⁼ə ʧ⁼ye↑k⁼ou↓, k⁼əNN→ wo↓↑məNN i↓↑ʧʰyeNN↑ ʦ⁼ou↓↑k⁼wo↓ t⁼ə i→ʃye→ ʃyeNN→ɹ`əNN↑ mi↓ʧ⁼iNg↓ you↓↑t⁼yeNN↓↑ʃyaNg↓ nə. naNN↑t⁼au↓, ʦ`⁼ə↓li↓↑ ye↓↑ you↓↑ ʃyeNN→ɹ`əNN↑ ma?
+./custom_character_voice/a11/processed_89.wav|0|t⁼wei↓p⁼u↓ʧʰi↓↑  wo↓↑məNN mei↑s`ɹ`↓ lə  ʦ⁼ai↓ʧ⁼yeNN↓.
+./custom_character_voice/a11/processed_90.wav|0|na↓li↓↑ you↓↑ɹ`əNN↑, hwei↓ p⁼u↑hwei↓ s`ɹ`↓ fu↑li↓↑ʦʰɹ↑ ya?
+./custom_character_voice/a11/processed_91.wav|0|ɥaNN↑s`əNN↑? i↓↑ʧʰyeNN↑ hau↓↑ʃyaNg↓ ʦʰuNg↑lai↑ mei↑ tʰiNg→ k⁼wo↓ ʦ`⁼ə↓k⁼ə↓ ʦʰɹ↑.
+./custom_character_voice/a11/processed_92.wav|0|ʧ⁼ye→ʃya↓lai↑ t⁼ə mau↓ʃyeNN↓↑ kʰə↓↑nəNg↑ hwei↓ ɥe↓lai↑ɥe↓ wei→ʃyeNN↓↑, wo↓↑məNN ʃyeNN→ ʦ⁼wo↓hau↓↑ ʦ`⁼wəNN↓↑p⁼ei↓ p⁼a.
+./custom_character_voice/a11/processed_93.wav|0|s`ɹ`↓ ʦ`⁼ə↓ʦ`⁼uNg↓↑ hau↓↑ʃyaNg↓ niNg↑k⁼u↓ t⁼ə fəNg→ i→yaNg↓ t⁼ə t⁼uNg→ʃi→.
+./custom_character_voice/a11/processed_94.wav|0|s`ɹ`↓ ʧʰyou→iNN↓↑ ɹ`əNN↑ t⁼ə lu↓ʦ`⁼aNg↓ tʰa→məNN wei↓s`əNN↑mə yau↓ fəNg→ʦ`⁼u↓ ʦ`⁼ə↓ tʰyau↑lu↓ nə s`ɹ`↓ ʃyaNg↓↑ mai↑fu↑ s`wei↑ ma.
+./custom_character_voice/a11/processed_95.wav|0|kʰaNN↓ʧʰi↓↑ lai↑, hau↓↑ʃyaNg↓ ʦ`⁼ə↓k⁼ə↓ iNN→sɹ→ yuNg↓↑ s`ɹ`↓ k⁼ə↓ tʰiNg↓↑ hə↑s`aNN↓ t⁼ə ɹ`əNN↑ nə, ʧ⁼you↓s`ɹ`↓ k⁼aNN↓↑ʧ⁼ɥe↑ ʦ`⁼ə↓k⁼ə↓ kʰou↓↑ʧʰi↓ k⁼wai↓k⁼wai↓t⁼ə.
+./custom_character_voice/a11/processed_96.wav|0|ʧ⁼ɥ→ɹ`aNN↑ li↓yuNg↓ lye↓s`ɹ`↓ faNN↓↑əɹ`↑ ʧ⁼ye→ʧ⁼iNN↓ lə ʃyeNN→ʦ⁼u↓↑ fa↓↑ tʰwei→.
+./custom_character_voice/a11/processed_97.wav|0|ʧ⁼i↓ɹ`aNN↑ tʰa→ p⁼əNN↓↑ɹ`əNN↑ t⁼ou→ s`wo→ p⁼u↓ʧ⁼ye↓i↓ wo↓↑məNN t⁼u↑ʃiNN↓ lə, na↓ wo↓↑məNN ʧ⁼you↓ s`au→wei→ t⁼u↑ i→ʃya↓ p⁼a.
+./custom_character_voice/a11/processed_98.wav|0|t⁼a↓hai↓↑ t⁼au↓ʦ`ʰwaNN↑ ye↓↑ mei↑ you↓↑ ʧ⁼yeNN↓ k⁼wo↓lyou↑ iNN↓↑ʧ⁼i→ nə.
+./custom_character_voice/a11/processed_99.wav|0|ʦ`⁼ɹ`↓s`au↓↑ p⁼u↓yuNg↓ i↓ʦ`⁼ɹ`↑ ʦ⁼ai↓ ye↓↑wai↓ lu↓su↓ lə.
+./custom_character_voice/a11/processed_100.wav|0|s`ɹ`↓ na↓ t⁼wei→ s`ɹ`↑tʰou t⁼ə k⁼waNN→ʃi↓ p⁼a hau↓↑  t⁼uNg↓s`ou↓↑.
+./custom_character_voice/a11/processed_101.wav|0|na↓t⁼a↓ ɹ`ou↓waNN↑, wo↓↑məNN yau↓ p⁼a↓↑ ʦ`⁼ə↓ p⁼a↓↑ mu↓ʧ⁼yeNN↓ t⁼ai↓ʦ⁼ou↓↑ ma, p⁼i↓ʧ⁼iNg↓…… p⁼i↓ʧ⁼iNg↓ ʦ`⁼ə↓ ye↓↑ s`ɹ`↓ ni↓↑ s`əNN→tʰi↓↑ t⁼ə i→p⁼u↓fəNN↓ ma.
+./custom_character_voice/a11/processed_102.wav|0|ʦ`⁼əNN→t⁼ə ma? wo↓↑ ʧ⁼you↓ ʦ`⁼ɹ`→t⁼au↓ ni↓↑ s`ɹ`↓ ʦ⁼wei↓ kʰə↓↑kʰau↓ t⁼ə!
+./custom_character_voice/a11/processed_103.wav|0|wo↓↑ tʰiNg→s`wo→, ʦ⁼ai↓ ʦ`⁼ə↓ʃye→ mi↓ʧ⁼iNg↓ li↓↑, k⁼waNg→s`ɹ`↓ mau↓ʃyeNN↓↑ʧ⁼ya→ ʃye↑hwei↓ tʰuNg↓↑ʧ⁼i↓ k⁼wo↓ t⁼ə sɹ↓↑fa↓↑, ʧ⁼you↓ you↓↑ sɹ↓p⁼ai↓↑ lyou↓s`ɹ`↑ saNN→ʦ`⁼uNg↓↑.
+./custom_character_voice/a11/processed_104.wav|0|nwo↓ai→əɹ`↓↑ hau↓↑ʃyaNg↓ həNN↓↑ ʃiNg→fəNN↓ t⁼ə yaNg↓ʦ⁼ɹ.
+./custom_character_voice/a11/processed_105.wav|0|ʦ`⁼aNN↓p⁼ei↓ s`ɹ`↓  ʦ`⁼aNN↓p⁼ei↓ s`ɹ`↓  hwei↓ ʦ⁼ai↓ na↓↑li↓↑ nə.
+./custom_character_voice/a11/processed_106.wav|0|wa, ʦ`⁼ə↓hu↑ t⁼au↓t⁼i↓↑ you↓↑ t⁼wo→s`au↓↑ ʦʰəNg↑ a?
+./custom_character_voice/a11/processed_107.wav|0|ni↓↑ you↓↑mei↑you↓↑ ʃyaNg↓↑k⁼wo↓, ni↓↑ t⁼ə↑t⁼au↓ t⁼ə mi↓mi↓ ʃyau→ʃi→ s`ɹ`↓ k⁼u↓i↓ ʃye↓↑k⁼ei↓↑ ni↓↑ t⁼ə?
+./custom_character_voice/a11/processed_108.wav|0|ɥe↓ s`ɹ`→waNN↑  ʦ`⁼əNN→s`ɹ`↓ k⁼ə↓ t⁼a↓pʰyeNN↓ʦ⁼ɹ.
+./custom_character_voice/a11/processed_109.wav|0|lau→ ʧʰɥaNN↑ lə  ʦ`⁼ə↓yaNg↓ ʧ⁼you↓ t⁼ə↑t⁼au↓ swo↓↑you↓↑ ɥ↑liNN↑ lə p⁼a.
+./custom_character_voice/a11/processed_110.wav|0|ʧ⁼ya↓↑ɹ`u↑ s`wo→ s`ɹ`↓ʧ⁼ye↓ ʦ`⁼əNN→t⁼ə yau↓ hwei↓↑mye↓ lə, ni↓↑ you↓ s`ɹ`↓ ʦ⁼əNN↓↑mə ʦ`⁼ɹ`→t⁼au↓ ʦ`⁼ə↓k⁼ə↓ ʃyau→ʃi→ t⁼ə nə?
+./custom_character_voice/a11/processed_111.wav|0|ei↑? ʦ`⁼ə↓li↓↑ ʧ⁼ɥ→ɹ`aNN↑ t⁼wo↓↑ ʦ`⁼ə ʦʰau↑ s`ɹ`↓↑lai↑mu↓↑ ma?
+./custom_character_voice/a11/processed_112.wav|0|ɥ↓t⁼au↓ ʦ`⁼ə↓ʦ`⁼uNg↓↑ s`ɹ`↓, ʦ⁼ɹ↓ʧ⁼i↓↑ you↓ ʦ`ʰu↓↑li↓↑ p⁼u↓lyau↓↑ t⁼əhwa↓, ʧ⁼you↓ kʰə↓↑i↓↑ t⁼wei↓ ʦ`⁼ə tʰyeNN→kʰuNg→ t⁼a↓haNN↓↑ i→s`əNg→.
+./custom_character_voice/a11/processed_113.wav|0|ɥaNN↑lai↑ hai↑you↓↑ ʦ`⁼ə↓yaNg↓ t⁼ə waNg↓↑s`ɹ`↓, hau↓↑ʃyaNg↓ k⁼əNg↓ʧ⁼ya→ li↓↑ʧ⁼ye↓↑ iNN↓↑ i→ʃye→ lə. na↓mə ʦ`⁼əNN→, s`ɹ`↓ i→k⁼ə↓ s`əNN↑məyaNg↓ t⁼ə s`əNN↑ nə?
+./custom_character_voice/a11/processed_114.wav|0|hau↓↑ʃyaNg↓ you↓ s`ɹ`↓ i→yaNg↓ t⁼ə t⁼uNg→ʃi→, kʰə↓↑s`ɹ`↓… s`u↓lyaNg↓ hau↓↑ʃyaNg↓ t⁼wei↓ p⁼u↓ s`aNg↓.
+./custom_character_voice/a11/processed_115.wav|0|wei↓, ni↓↑məNN you↓↑mei↑you↓↑ tʰiNg→t⁼au↓ s`əNN↑mə s`əNg→iNN→, hau↓↑ ʃya↓ɹ`əNN↑ a.
+./custom_character_voice/a11/processed_116.wav|0|naNN↑t⁼au↓ mwo↑la→ p⁼i↓↑ kʰə↓↑ai↓ tʰuNg↑p⁼aNN↓ t⁼ə ɥaNN↓waNg↓ hai↑yau↓ ʦ`⁼uNg↓yau↓ ma.
+./custom_character_voice/a11/processed_117.wav|0|s`wo→ ʧʰi↓↑ ʃi→p⁼ei↓↑ faNg→ʃyaNg↓ t⁼ət⁼au↓↑, p⁼i↓↑ʧ⁼yau↓ t⁼a↓ t⁼ə ʧ⁼you↓ you↓↑ lyaNg↓↑ʦ⁼wo↓.
+./custom_character_voice/a11/processed_118.wav|0|wa, kʰai↓↑məNg↑ i↓ʦ`⁼ɹ`↑ ʦ`⁼ɹ`→ʦ`ʰɹ`↑ ʦ`⁼u↓ ni↓↑ o↑!
+./custom_character_voice/a11/processed_119.wav|0|wa, ʦ`⁼ə↓s`ɹ`↓ swei↓t⁼au↓ ma? hau↓↑ ʧʰi↑k⁼wai↓, ʦ⁼uNg↓↑ ʧ⁼ɥe↑t⁼ə ʦ`⁼ə↓li↓↑ lyeNN↑ ʦ`⁼ə liNg↓ i↑k⁼ə↓ s`ɹ`↓ʧ⁼ye↓, hwo↓s`ɹ`↓ liNg↓ i→t⁼waNN↓s`ɹ`↑ʧ⁼yeNN→……
+./custom_character_voice/a11/processed_120.wav|0|s`wo→ p⁼u↓t⁼iNg↓, t⁼au→ ʧʰi↑s`ɹ`↑ s`ɹ`↓ i→ʦ`⁼uNg↓↑ s`əNN→fəNN↓ t⁼ə ʃyaNg↓ ʦ`⁼əNg→, wo↓↑yau↓ p⁼u↑yau↓ ye↓↑ t⁼ai↓ i→p⁼a↓↑ nə?
+./custom_character_voice/a11/processed_121.wav|0|ʦ`⁼ɹ`→s`ɹ`↑ ye↓↑ s`ɹ`↓ ʦ⁼ɹ→ɥaNN↑.
+./custom_character_voice/a11/processed_122.wav|0|hau↓↑p⁼u↓ɹ`uNg↑i↓ ʦ`⁼au↓↑t⁼au↓ ʃyau↓↑waNg↑ʦ⁼ɹ↓↑, ʦ⁼ai↓ pʰau↓↑ lə ʧ⁼you↓ ma↑faNN↑ lə, kʰwai↓ ɹ`əNN↓ʦ`⁼əNN→ t⁼yeNN↓↑!
+./custom_character_voice/a11/processed_123.wav|0|ʃɥ→mi↑ a, wo↓↑məNN i→lu↓s`aNg↓ ʧ⁼yeNN↓k⁼wo↓ həNN↓↑t⁼wo→ lai↑ ʦ⁼ɹ↓ʃɥ→mi↑ t⁼ə ʃɥe↑ʦ`⁼ə↓↑ lə.
+./custom_character_voice/a11/processed_124.wav|0|wei↓  hai↓ məNg↑hwei↓ fei→ la  ʦʰai↑ p⁼u↑hwei↓ s`aNg↓ na↓ʦ`⁼uNg↓↑ t⁼aNg→ t⁼ə.
+./custom_character_voice/a11/processed_125.wav|0|t⁼a↓↑ɹ`au↓↑ waNN↑s`wo→ p⁼u↓t⁼iNg↓ ma↓↑ s`aNg↓ ʧ⁼you↓ mei↑fa↓↑ s`wo→ hwa↓ lə.
+./custom_character_voice/a11/processed_126.wav|0|fu↓ʧ⁼iNN↓ t⁼ə s`aNN→p⁼i↓ s`aNg↓ you↓↑ʃye→ k⁼waNN↓mu↓, naNN↑t⁼au↓s`wo→ hwei↓ s`ɹ`↓ mou↓↑ʦ`⁼uNg↓↑ ʃyeNN↓swo↓↑ ma?
+./custom_character_voice/a11/processed_127.wav|0|ma↑a↓miNto go↑ogo↓o, do↓Qʧiga sU↑ki?
+./custom_character_voice/a11/processed_128.wav|0|wei↓ s`əNN↑mə t⁼i↑lu↑kʰə↓ hə↑ kʰai↓↑ya↓ miNg↑miNg↑ s`ɹ`↓ həNN↓↑ ʃyaNg→sɹ↓ t⁼ə lyaNg↓↑k⁼ə↓ ɹ`əNN↑, k⁼waNN→ ʃi↓ ʧʰɥe↓ p⁼u↓tʰai↓hau↓↑ nə?
+./custom_character_voice/a11/processed_129.wav|0|t⁼aNN↓, wo↓↑məNN ʦ`⁼əNN→t⁼ə nəNg↑ aNN→ʧʰɥaNN↑ li↑kʰai→ ma?
+./custom_character_voice/a11/processed_130.wav|0|ʦ`⁼ə↓ p⁼u↑s`ɹ`↓ wo↓↑məNN t⁼i↓i→ʦʰɹ↓ ʦ`⁼au↓↑ p⁼au↓↑ʦ⁼aNg↓ t⁼ə t⁼i↓faNg→ ma  s`aNg↓myeNN↓ ʦ`⁼ɹ`↓↑you↓↑ ɥe↓s`ɹ`↑ waNN↑ ni↓↑ t⁼ə p⁼aNN↓ʧ⁼ye↑ t⁼waNN↓ʦ`ʰwaNg↑ əɹ`↑i↓↑ p⁼a.
+./custom_character_voice/a11/processed_131.wav|0|ʦ`⁼ə↓k⁼ə↓ ʃyaNg→ʦ⁼ɹ ʦ`⁼waNg→t⁼ə↑ hau↓↑ ʧ⁼iNN↓↑, ɹ`aNg↓ wo↓↑ kʰaNN↓kʰaNN↓ li↓↑myeNN↓ you↓↑ s`əNN↑mə.
+./custom_character_voice/a11/processed_132.wav|0|wei↓, s`ɹ`↓ s`ɹ`↓↑lai↑mu↓↑, ʃya↓sɹ↓↑ ɹ`əNN↑ lə.
+./custom_character_voice/a11/processed_133.wav|0|t⁼aNN↓ iNN→wei↓ t⁼wei↓lyeNN↑ həNN↓↑naNN↑, ʧʰyeNN↑ ye↓↑ p⁼u↑s`ɹ`↓ na↓mə hau↓↑ʦ`⁼waNN↓ t⁼ə.
+./custom_character_voice/a11/processed_134.wav|0|ʦ⁼ai↓ s`ə↓ʧ⁼yeNN↓ t⁼ə faNg→myeNN↓  k⁼aNN→ɥ↓↑ ʃyau↓↑ʧ⁼ye↓↑ fei→ʦ`ʰaNg↑ t⁼ə↑ʃiNN→iNg↓s`ou↓↑ nə  hau↓↑ li↓hai↓.
+./custom_character_voice/a11/processed_135.wav|0|lyaNg↓↑ʦ`⁼uNg↓↑ s`əNg→iNN→ t⁼ou→ you↓↑…… ə↓, t⁼au↓t⁼i↓↑ s`ɹ`↓ ʦ⁼ai↓ na↓↑li↓↑ a?
+./custom_character_voice/a11/processed_136.wav|0|hau↓↑p⁼aNg↓! ʧʰɥ↓ k⁼əNN→ pʰəNg↑you↓↑ ʃɥaNN↓yau↓ i→ʃya↓ p⁼a!
+./custom_character_voice/a11/processed_137.wav|0|ʧʰi↑s`ɹ`↑ wo↓↑məNN ye↓↑ ʧ⁼iNg→ʦ`ʰaNg↑ ʦ`ʰu↓↑li↓↑ ʃyau↓↑s`ɹ`↓ t⁼ə, s`ɹ`↓ p⁼a?
+./custom_character_voice/a11/processed_138.wav|0|lyou↑li↑ p⁼ai↓↑hə↑? ʦ`⁼ə↓s`ɹ`↓ yuNg↓lai↑ k⁼aNN↓s`əNN↑mə t⁼ə? p⁼u↓ iNg→k⁼ai→ s`ɹ`↓ ʧ⁼iNg↓hwa↓ k⁼u↓↑swei↓↑ s`əNN↑mə t⁼ə ma?
+./custom_character_voice/a11/processed_139.wav|0|ʦ`⁼ə↓li↓↑ li↑ t⁼wei↓ʧ⁼ɥe↑ t⁼ə t⁼i↓faNg→ ʦ`⁼ə↓mə ʧ⁼iNN↓, tʰa→məNN hwei↓ p⁼u↑hwei↓ ʧʰɥ↓ ʃyeNN↓ʦ`ʰaNg↓↑ t⁼au↓↑lwaNN↓ a?
+./custom_character_voice/a11/processed_140.wav|0|ʃɥ→, ʃyau↓↑s`əNg→, p⁼u↑yau↓ p⁼ei↓ tʰa→ fa→ʃyeNN↓ lə.
+./custom_character_voice/a11/processed_141.wav|0|i↑? ʦ`ʰəNg↑s`aNN→ t⁼ə t⁼iNg↓ʦ⁼wei↓ s`u→ ye↓↑ s`ɹ`↓ ʧ⁼you↓↑tʰyau↑ s`a→lwo↑ʧʰyeNN→ t⁼ə, hə↑ luNg↑əɹ`↑ t⁼ə i→yaNg↓ ma?
+./custom_character_voice/a11/processed_142.wav|0|ʦ`⁼əNN→s`ɹ`↓ ʧ⁼ye→ t⁼a↓hwaNN→ ʃi↓↑ t⁼ə ʧ⁼ye↑k⁼wo↓↑, ʃyeNN↓ʦ⁼ai↓ t⁼a↓ʧ⁼ya→ t⁼ou→ i↓↑ ʧ⁼iNg→li↑kʰai→ lə, wo↓↑məNN ye↓↑ ʧʰɥ↓ hə↑ ʃyaNg↓ liNg↑t⁼au↓ p⁼ye↑ p⁼a.
+./custom_character_voice/a11/processed_143.wav|0|t⁼aNN↓s`ɹ`↓, wo↓↑məNN yau↓ ʦ⁼əNN↓↑mə k⁼wo↓ʧʰɥ↓ nə?
+./custom_character_voice/a11/processed_144.wav|0|s`əNN→ɥaNN→ s`ɹ`↓↑tʰu↑  t⁼au↓t⁼i↓↑ ʦ`⁼aNg↓↑ s`əNN↑məyaNg↓ nə  əNN↑  s`ɹ`↓p⁼u↑s`ɹ`↓ hə↑ s`əNN→ɥaNN→fa↓↑s`ɹ`→ ʦ`ʰa↓p⁼u↓t⁼wo→.
+./custom_character_voice/a11/processed_145.wav|0|ʧʰi→ʧʰi→, hwei↓p⁼u↓hwei↓ ʃɥ→yau↓ ʃi→ʃɥe↓ nə?
+./custom_character_voice/a11/processed_146.wav|0|wei↓, ʦ`⁼ə↓ p⁼u↑s`ɹ`↓ wo↓↑məNN yuNg↓lai↑ ʧʰye↓ s`wei↓↑k⁼wo↓↑ t⁼ə t⁼au→ ma?
+./custom_character_voice/a11/processed_147.wav|0|na↓ʃye→ ʧʰyou→ʧʰyou→ɹ`əNN↑ kʰaNN↓ʧʰi↓↑lai↑ ʦ`⁼əNN→t⁼ə həNN↓↑ tʰuNg↓kʰu↓↑…… a, naNN↑t⁼au↓s`wo→ ʃyeNN↓ʦ⁼ai↓ t⁼ə t⁼a↓iNg→ ye↓↑ ʦ⁼ai↓ ɹ`əNN↓↑s`ou↓ ʦ`⁼ə↓yaNg↓ t⁼ə tʰuNg↓kʰu↓↑ ma?
+./custom_character_voice/a11/processed_148.wav|0|tʰa→ s`wo→ yau↓s`ɹ`↓ p⁼u↓ ʦ⁼ai↓ ʦ`⁼ə↓li↓↑, ʧʰɥ↓ p⁼ye↑ t⁼ə faNg↑ʧ⁼yeNN→ kʰaNN↓kʰaNN↓ ma?
+./custom_character_voice/a11/processed_149.wav|0|ʧ⁼i→p⁼ai↓ tʰa→, ye↓↑ʃɥ↓↑ ʧ⁼you↓ nəNg↑ ʃyau→ʦ`ʰu↑ na↓ʦ`⁼uNg↓↑ wei↑ɹ`au↓ s`əNN↑ʃyaNg↓ t⁼ə fəNg→ʦ`⁼aNg↓ lə.

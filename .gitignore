@@ -1,0 +1,11 @@
+ASR/resources
+SentimentEngine/models
+tmp
+ASR/__pycache__
+ASR/rapid_paraformer/__pycache__
+ASR/rapid_paraformer/kaldifeat/__pycache__
+QWen/__pycache__
+SentimentEngine/__pycache__
+TTS/__pycache__
+TTS/models/
+utils/__pycache__
