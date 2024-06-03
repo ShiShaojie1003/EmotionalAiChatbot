@@ -11,12 +11,15 @@ python setup.py build_ext --inplace
 cp monotonic_align/*.pyd .
 ```
 ## 主要模块介绍
+```
 ASR ----语音识别模块
-	Qwen ----语言大模型部分
-	SentimentEngine ----情感识别部分
-	TTS  ----语音生成部分
+Qwen ----语言大模型部分
+SentimentEngine ----情感识别部分
+TTS  ----语音生成部分
+```
 
 ## 程序运行
+克隆UI界面`https://github.com/QSWWLTN/DigitalLife.git`
 1. 打开UI界面 `T.exe`
 2. 运行`EmotionAi.py`文件
 3. 在UI中填写相关信息
